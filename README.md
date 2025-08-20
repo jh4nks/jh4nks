@@ -23,7 +23,7 @@
 
 | Award Date | Issuing Organization | Description |
 |---|---|---|
-| 2024.09 | MSIT | WHS TOP 20 Certificate |
-| 2024.12 | KTSA | "2024 TS Security Vulnerability Hunt!" - 4th Award |
+| 2024.09 | MSIT (Ministry of Science and ICT) | WHS TOP 20 Certificate |
+| 2024.12 | KTSA (Korea Transportation Safety Authority)  | "2024 TS Security Vulnerability Hunt!" - 4th Award |
 
 <br />
